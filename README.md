@@ -76,10 +76,11 @@ The model is built using a custom Convolutional Neural Network (CNN).
 ```
 Eye-State-Classification/
 
-│
-├── app.py
-├── label_encoder.pkl
-└── requirements.txt
+├── Noteboooook.ipynb # Model training and experiments notebook
+├── README.md               # Project documentation
+├── app.py                  # Streamlit deployment application
+├── label_encoder.pkl       # Class label encoder
+└── requirements.txt        # Required libraries
 
 ```
 
