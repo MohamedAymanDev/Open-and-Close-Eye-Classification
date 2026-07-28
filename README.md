@@ -79,12 +79,8 @@ Eye-State-Classification/
 │
 ├── app.py
 ├── label_encoder.pkl
-├── requirements.txt
-├── README.md
-│
-└── assets/
-    ├── home.png
-    └── prediction.png
+└── requirements.txt
+
 ```
 
 ---
