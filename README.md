@@ -94,7 +94,7 @@ Eye-State-Classification/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/Eye-State-Classification.git
+git clone https://github.com/MohamedAymanDev/Open-and-Close-Eye-Classification.git
 ```
 
 ---
@@ -117,14 +117,7 @@ streamlit run app.py
 
 ## 🖼️ Application Preview
 
-(Add screenshots here)
-
-Example:
-
-```
-assets/home.png
-assets/prediction.png
-```
+The application provides a simple and interactive interface where users can upload an eye image and receive an AI prediction showing whether the eye is **Open** or **Closed** with the confidence score and probability visualization.
 
 ---
 
@@ -163,6 +156,6 @@ Potential applications:
 
 ## 👨‍💻 Author
 
-**Mohamed Ayman**
+**Mohamed Ayman🌹**
 
 Aspiring Machine Learning Engineer | Artificial Intelligence Student
